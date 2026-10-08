@@ -20,11 +20,11 @@ Le frontend est **conteneurisé avec Docker** et servi par **Nginx**. Il communi
 
 **Backend**
 
-https://github.com/yoanlouvois/GameTrackerProject-Backend
+https://github.com/yoanlouvois/game-tracker-project-backend
 
 **Infrastructure**
 
-https://github.com/yoanlouvois/GameTrackerProject-Infra
+https://github.com/yoanlouvois/game-tracker-project-infra
 
 ---
 
